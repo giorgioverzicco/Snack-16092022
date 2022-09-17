@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snack-16092022.Snack10", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snack-16092022.Snack11", "Snack-16092022.Snack11\Snack-16092022.Snack11.csproj", "{0848952A-0156-4EBB-B7C8-58B421C7BE2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snack-16092022.Snack12", "Snack-16092022.Snack12\Snack-16092022.Snack12.csproj", "{18421F41-B0AC-4ACF-BD2B-752410A570DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{0848952A-0156-4EBB-B7C8-58B421C7BE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0848952A-0156-4EBB-B7C8-58B421C7BE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0848952A-0156-4EBB-B7C8-58B421C7BE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18421F41-B0AC-4ACF-BD2B-752410A570DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18421F41-B0AC-4ACF-BD2B-752410A570DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18421F41-B0AC-4ACF-BD2B-752410A570DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18421F41-B0AC-4ACF-BD2B-752410A570DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
